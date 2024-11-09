@@ -8,8 +8,11 @@ This Update CD is a community sourced collection of official Microsoft updates, 
 
 This CD has specifically been compiled to include only official, unmodified updates and patches as they were originally released by Microsoft, and excludes unofficial updates, third-party utilities, and UI enhancements.
 
-![Update Installer](/images/SCR_01.png)
 
-![Optional Components](/images/SCR_02.png)
+## Screenshots
 
-![Documentation](/images/SCR_03.png)
+![Update Installer](/Images/SCR_01.png)
+
+![Optional Components](/Images/SCR_02.png)
+
+![Documentation](/Images/SCR_03.png)
