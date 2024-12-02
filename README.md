@@ -52,6 +52,8 @@ It is recommended that you also review the **Patches** folder, which contains a 
 
 ![Update Installer](/Images/SCR_01.png)
 
-![Optional Components](/Images/SCR_02.png)
+![User Guide](/Images/SCR_02.png)
 
-![Documentation](/Images/SCR_03.png)
+![Update Packages](/Images/SCR_03.png)
+
+![Optional Components](/Images/SCR_04.png)
