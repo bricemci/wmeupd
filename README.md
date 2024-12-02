@@ -1,9 +1,9 @@
 # Windows Me Update CD
 
-This Update CD is a community sourced collection of official Microsoft updates, security patches and hotfixes for Windows Millennium Edition, including:
+The Windows Me Update CD is a community-sourced collection of official Microsoft updates, security patches and hotfixes for Windows Millennium Edition, including:
 
-+ An interactive, automatic installer for over 140 separate updates, security patches and hotfixes, including the System Restore Update, Windows Installer 2.0, Data Access Components 2.8 SP1, Jet Database Engine 4.0 SP8, Active Accessibility 2.0 and Windows NetMeeting 3.01 SP2.
-+ Options to update preinstalled Windows components to Internet Explorer 5.5 SP2 or 6.0 SP1, and Windows Media Player 7.1 or 9.0 during the installation process, along with all updates and security patches for each.
++ An automatic installer for over 140 separate updates, security patches and hotfixes, including the System Restore Update, Windows Installer 2.0, Data Access Components 2.8 SP1, Jet Database Engine 4.0 SP8, Active Accessibility 2.0, and Windows NetMeeting 3.01 SP2.
++ Options to update preinstalled Windows components to Internet Explorer 5.5 SP2 or 6.0 SP1 and Windows Media Player 7.1 or 9.0 during the installation process, along with updates and security patches for each.
 + A collection of recommended and optional component updates for Windows Me, including:
 
   - Active Accessibility 2.0
@@ -29,24 +29,23 @@ This Update CD is a community sourced collection of official Microsoft updates, 
   - Windows Automatic Updating
   - Windows Installer 2.0
   - Windows Media Player 7.1 and 9 Series
-  - Windows Movie Maker 
   - Windows NetMeeting 3.01 SP2
   - Windows Script 5.6
 
-This CD has specifically been compiled to include only official, unmodified updates and patches as they were originally released by Microsoft, and excludes unofficial updates, third-party utilities, and UI enhancements.
+This CD includes only official, unmodified updates and patches as they were originally released by Microsoft, and excludes unofficial updates, third-party utilities, and interface enhancements.
 
 
 ## How To Use
 
 Launch **INSTALL.BAT** from within the **Updates** folder and follow the on-screen instructions.
 
-Your computer will restart several times during installation. After each restart, the installer will relaunch and resume installing updates until the installation process is complete. If the installer does not resume, launch INSTALL.BAT again to continue installing updates.
+Your computer will restart several times during installation. After each restart, the installer will relaunch and resume installing updates until the installation process is complete. (If the installer does not automatically resume, launch INSTALL.BAT again to continue installing updates.) 
 
 Some updates require additional information during installation so they can configure your computer accordingly. Read any information carefully as it is being presented to you, and choose any options you wish to install.
 
-After the installation has completed, it is recommended that you check the **Components** folder to see if any optional component packages are needed for your particular system. (Such as DirectX, which is required for running many common games.)
+After the installation process has completed, it is recommended that you check the **Components** folder for any optional Windows components that may be needed for your system. These components offer additional functionality in Windows and may be needed by applications you intend to use (such as DirectX, which is essential for running many popular games).
 
-If your computer contains hardware components or specifications newer than Windows Me was originally designed for, it is highly recommended that you also review the **Patches** folder and install any patches needed to support your hardware configuration. 
+It is recommended that you also review the **Patches** folder, which contains a selection of third-party patches that address common issues with Windows Me and its applications, and provide support for hardware components and configurations that are newer than Windows Me was originally designed for. 
 
 
 ## Screenshots
